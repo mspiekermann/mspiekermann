@@ -1,3 +1,7 @@
+/*
+ *  Copyright (c) 2019 CodeNerve
+ */
+
 var Typer = {
   text: '',
   accessCountimer: null,
