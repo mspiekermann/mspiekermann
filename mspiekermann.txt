@@ -1,23 +1,29 @@
-<span id="a">code@nerve</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- kjsdfhkjdhsfkjdshfkj -->About_Us
-<span id="a">coder@nerve</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->codenerve.txt<br/><br/>
+<span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cd mspiekermann/<!-- kjsdfhkjdhsfkjdshfkj -->About
+<span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->mspiekermann.txt<br/><br/>
 My favorite code quote, "<span id="k">Code for Everyone</span>". <!-- sjkfhskjf -->
 
-Hey There! This is the portflio website in the skin of a terminal.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
-<p>You can see that, this is how your portfolio would look like.</p>
-<p>You can introduce yourself here.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
-<p> You can also tell what you've worked and known and what skills you have,
-you can also give link to your professional portfolio here<a href="link"> portfolio</a>.
+Hey There! I am Markus Spiekermann.<!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+<p>
+I am leading the department Data Business at the Fraunhofer Institute for Software and Systems Engineering in Dortmund, Germany.</p>
+<p>
+I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of Industrial Data Space Architectures: Economic and Engineering Design Options.
+</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p>
+I love to try different technologies, to combine them and to discuss and develop new solutions. Ideas for this often come while I am running, which I also love and do several times a week. Fits well together!
 </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
-<p>Tell more about yourself. <br><br><br>
-Give your project links or something like that. <a href="link"> Here you go</a>.
+
+<p> Currently, I am mainly working on building data spaces, i.e. building infrastructures and components for data exchange between companies and solving related challenges such as interoperability, scalability, and trust.
+Here I lead the Eclipse Dataspace Componentes (EDC) project of the Eclipse Foundation, which provides a framework for the development of data spaces and integration of technologies and trust frameworks.<a href="https://github.com/eclipse-edc"> EDC project</a>.
 </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-<p> You can give links to other professional profiles you have on Internet, here: <br>
-<a href="link1">LinkedIn</a> <br>
-<a href="link2">GitHub</a>.
+<p> You can visit my other profiles, here: <br>
+<a href="https://de.linkedin.com/in/markus-spiekermann-57990b1b9">LinkedIn</a> </br>
+<a href="https://github.com/mspiekermann">GitHub</a> and </br>
+<a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a>.
 </p>
 
-You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at
 <!-- longlonglongcomment --><a href="mailto:m-spiekermann@web.de">m-spiekermann@web.de</a>.
 
 <p>Cheers!</p>
