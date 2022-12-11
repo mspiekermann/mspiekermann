@@ -21,8 +21,8 @@ Here I lead the Eclipse Foundation's Eclipse Dataspace Components (EDC) project,
 <a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a>.
 </p>
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to send me an email at
-<!-- longlonglongcomment --><a href="mailto:m-spiekermann@web.de">m-spiekermann@web.de</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to contact mer on LinkedIn or send me an email at
+<!-- longlonglongcomment --><a href="mailto:markus.spiekermann@isst.fraunhofer.de">markus.spiekermann@isst.fraunhofer.de</a>.
 
 <p>Cheers!</p>
 
