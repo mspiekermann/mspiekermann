@@ -4,7 +4,7 @@ My favorite code quote, "<span id="k">... the architecture supports it!</span>" 
 
 Hey There! I am Markus Spiekermann. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>
-I am leading the department Data Business at the Fraunhofer Institute for Software and Systems Engineering in Dortmund, Germany. <br/><br/>
+I am leading the department Data Business at the Fraunhofer Institute for Software and Systems Engineering in Dortmund, Germany. <br/>
 I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of Industrial Data Space Architectures: Economic and Engineering Design Options.
 </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>
@@ -15,7 +15,7 @@ I love to try different technologies, to combine them and to discuss and develop
 Here I lead the Eclipse Dataspace Componentes (EDC) project of the Eclipse Foundation, which provides a framework for the development of data spaces and integration of technologies and trust frameworks. Do you want to learn more about it? <a href="https://github.com/eclipse-edc"> Here you go</a>.
 </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
-<p> You can visit my other profiles, here: <br/>
+<p> You can visit my profiles, here: <br/>
 <a href="https://de.linkedin.com/in/markus-spiekermann-57990b1b9">LinkedIn</a> <br/>
 <a href="https://github.com/mspiekermann">GitHub</a> and <br/>
 <a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a>.
