@@ -1,6 +1,6 @@
 <span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cd mspiekermann/<!-- kjsdfhkjdhsfkjdshfkj -->About
 <span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->mspiekermann.txt<br/><br/>
-My favorite code quote, "<span id="k">... the architecture supports it!</span>" <!-- sjkfhskjf -->
+My favorite code quote, "<span id="k">... the architecture supports it!</span>"
 
 Hey there, I am Markus! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>
@@ -9,16 +9,13 @@ Currently, I am mainly working on building Dataspaces, i.e. building infrastruct
 
 Enable data economy and building trust in cross-organizational data sharing will require technical solutions for attaching policies to data assets and implement suitable protocols for advertising data, negotiate policies and control the transfer. 
 This is why I am strongly engaged in Eclipse Foundation's Eclipse Dataspace Components (EDC) project, which provides a free and open-source framework for organizations that want to building production-ready dataspace technologies. Do you want to learn more about it? <a href="https://github.com/eclipse-edc"> Here you go</a>. 
-</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
-<p>
-What else to say? Before my time at Huawei, I was leading the department 'Data Business' at the <a href="https://www.isst.fraunhofer.de/en.html"> Fraunhofer Institute for Software and Systems Engineering</a> in Dortmund, Germany. <br/>
+!-- slightdelayhere-->What else to say? Before my time at Huawei, I was leading the department 'Data Business' at the <a href="https://www.isst.fraunhofer.de/en.html"> Fraunhofer Institute for Software and Systems Engineering</a> in Dortmund, Germany. <br/>
 I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of Industrial Data Space Architectures: Economic and Engineering Design Options.
-</p> 
-<p>
+
 I love to try different technologies, to combine them and to discuss and develop new solutions. Ideas for this often come while I am running, 
 which I also love and do several times a week. Fits well together!
-</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+</p>
 
 <p> You can visit my profiles, here: <br/>
 <a href="https://de.linkedin.com/in/markus-spiekermann-57990b1b9">LinkedIn</a> <br/>
