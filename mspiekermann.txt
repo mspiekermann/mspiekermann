@@ -2,37 +2,28 @@
 <span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->mspiekermann.txt<br/><br/>
 My favorite code quote, "<span id="k">... the architecture supports it!</span>" <!-- sjkfhskjf -->
 
-Hey There! I am Markus! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey there, I am Markus! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>
-I am with Huawei Technologies working as a Lead Architect for Data Ecosystem in the Munich Reseach Center (MRC). Currently, I am mainly 
-working on building Dataspaces, i.e. building infrastructures and components for data exchange between companies and solving related 
-challenges such as interoperability, scalability, and trust.
+I am with <a href="https://www.huawei.com/eu/">Huawei Technologies Co, Ltd.</a> and their Cloud BU as a Lead Architect for Data Ecosystems. 
+Currently, I am mainly working on building Dataspaces, i.e. building infrastructures and components for data exchange between companies and solving related challenges such as interoperability, scalability, portability, and trust.
 
-Enable data economy and building trust in cross-organizational data sharing will require technical solutions for attaching policies to data assets 
-and implement suitable protocols for advertising data, negotiate policies and control the transfer. This is why I am strongly engaged in Eclipse 
-Foundation's Eclipse Dataspace Components (EDC) project, which provides a free and open-source framework for organizations that want to building
-production-ready dataspace technologies. Do you want to learn more about it? 
-<a href="https://github.com/eclipse-edc"> Here you go</a>. 
+Enable data economy and building trust in cross-organizational data sharing will require technical solutions for attaching policies to data assets and implement suitable protocols for advertising data, negotiate policies and control the transfer. 
+This is why I am strongly engaged in Eclipse Foundation's Eclipse Dataspace Components (EDC) project, which provides a free and open-source framework for organizations that want to building production-ready dataspace technologies. Do you want to learn more about it? <a href="https://github.com/eclipse-edc"> Here you go</a>. 
 </p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 
 <p>
-What else to say? Before my time at Huawei, I was leading the department 'Data Business' at the <a href="https://www.isst.fraunhofer.de/en.html">
-Fraunhofer Institute for Software and Systems Engineering</a> in Dortmund, Germany. <br/>
-I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of 
-Industrial Data Space Architectures: Economic and Engineering Design Options.
-</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+What else to say? Before my time at Huawei, I was leading the department 'Data Business' at the <a href="https://www.isst.fraunhofer.de/en.html"> Fraunhofer Institute for Software and Systems Engineering</a> in Dortmund, Germany. <br/>
+I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of Industrial Data Space Architectures: Economic and Engineering Design Options.
+</p> 
 <p>
 I love to try different technologies, to combine them and to discuss and develop new solutions. Ideas for this often come while I am running, 
 which I also love and do several times a week. Fits well together!
 </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-<
-</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
-
 <p> You can visit my profiles, here: <br/>
 <a href="https://de.linkedin.com/in/markus-spiekermann-57990b1b9">LinkedIn</a> <br/>
-<a href="https://github.com/mspiekermann">GitHub</a> and <br/>
-<a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a>.
+<a href="https://github.com/mspiekermann">GitHub</a> <br/>
+<a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a> <br/>
 </p>
 
 If you would like to get in touch with me<!-- slightdelayhere-->, feel free to contact with me on LinkedIn.
