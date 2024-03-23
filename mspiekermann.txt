@@ -2,17 +2,31 @@
 <span id="a">root@mspiekermann</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->mspiekermann.txt<br/><br/>
 My favorite code quote, "<span id="k">... the architecture supports it!</span>" <!-- sjkfhskjf -->
 
-Hey There! I am Markus Spiekermann. <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+Hey There! I am Markus! <!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 <p>
-I am leading the department Data Business at the Fraunhofer Institute for Software and Systems Engineering in Dortmund, Germany. <br/>
-I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of Industrial Data Space Architectures: Economic and Engineering Design Options.
+I am with Huawei Technologies working as a Lead Architect for Data Ecosystem in the Munich Reseach Center (MRC). Currently, I am mainly 
+working on building Dataspaces, i.e. building infrastructures and components for data exchange between companies and solving related 
+challenges such as interoperability, scalability, and trust.
+
+Enable data economy and building trust in cross-organizational data sharing will require technical solutions for attaching policies to data assets 
+and implement suitable protocols for advertising data, negotiate policies and control the transfer. This is why I am strongly engaged in Eclipse 
+Foundation's Eclipse Dataspace Components (EDC) project, which provides a free and open-source framework for organizations that want to building
+production-ready dataspace technologies. Do you want to learn more about it? 
+<a href="https://github.com/eclipse-edc"> Here you go</a>. 
+</p><!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+
+<p>
+What else to say? Before my time at Huawei, I was leading the department 'Data Business' at the <a href="https://www.isst.fraunhofer.de/en.html">
+Fraunhofer Institute for Software and Systems Engineering</a> in Dortmund, Germany. <br/>
+I have my Master's degree in IT Management and am currently doing my PhD at TU Dortmund University on the topic of 
+Industrial Data Space Architectures: Economic and Engineering Design Options.
 </p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
 <p>
-I love to try different technologies, to combine them and to discuss and develop new solutions. Ideas for this often come while I am running, which I also love and do several times a week. Fits well together!
+I love to try different technologies, to combine them and to discuss and develop new solutions. Ideas for this often come while I am running, 
+which I also love and do several times a week. Fits well together!
 </p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
 
-<p> Currently, I am mainly working on building data spaces, i.e. building infrastructures and components for data exchange between companies and solving related challenges such as interoperability, scalability, and trust.
-Here I lead the Eclipse Foundation's Eclipse Dataspace Components (EDC) project, which provides a free and open-source framework for the development of data spaces and integration of technologies and trust frameworks. Do you want to learn more about it? <a href="https://github.com/eclipse-edc"> Here you go</a>.
+<
 </p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
 
 <p> You can visit my profiles, here: <br/>
@@ -21,8 +35,8 @@ Here I lead the Eclipse Foundation's Eclipse Dataspace Components (EDC) project,
 <a href="https://www.researchgate.net/profile/Markus-Spiekermann-2">Researchgate</a>.
 </p>
 
-If you would like to get in touch with me<!-- slightdelayhere-->, feel free to contact mer on LinkedIn or send me an email at
-<!-- longlonglongcomment --><a href="mailto:markus.spiekermann@isst.fraunhofer.de">markus.spiekermann@isst.fraunhofer.de</a>.
+If you would like to get in touch with me<!-- slightdelayhere-->, feel free to contact with me on LinkedIn.
+<!-- longlonglongcomment -->
 
 <p>Cheers!</p>
 
